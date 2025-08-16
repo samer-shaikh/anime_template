@@ -1,7 +1,7 @@
 import requests
 from rating_grid_generator import generate_episode_grid
 
-API_KEY = "ebaea042"  # 🔑 put your OMDb API key here
+API_KEY = "you-api-key"  # 🔑 put your OMDb API key here
 TITLE = "death note"     # 🎬 anime/series name
 
 
