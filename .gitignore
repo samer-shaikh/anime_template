@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled files
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Jupyter notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Other
+*.sqlite3
